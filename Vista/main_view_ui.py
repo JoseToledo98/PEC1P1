@@ -9,8 +9,8 @@ class Vista():
     def __init__(self,form):
 
         self.tablaMuestra(form)
-        self.tablaFrecuencias(form)
-        self.botones(form)
+        #self.tablaFrecuencias(form)
+        #self.botones(form)
 
     def tablaMuestra(self,Form):
         self.labelTablaMuestras= QtWidgets.QLabel(Form)
@@ -18,7 +18,7 @@ class Vista():
         self.labelTablaMuestras.setFixedWidth(160)
         self.labelTablaMuestras.move(10,7)
         self.tablamuestra =QtWidgets.QTableWidget(Form)
-        self.tablamuestra.setGeometry(QtCore.QRect(10, 30, 160, 645))
+        self.tablamuestra.setGeometry(QtCore.QRect(250, 50, 750, 645))
         self.tablamuestra.setObjectName("tablaMuestra")
         
     def tablaFrecuencias(self,Form):

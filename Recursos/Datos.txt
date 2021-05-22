@@ -1,2 +1,226 @@
-muestra     1   2   3   4  5    6   7   8   9   10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30
-respuesta   45  50  13  5  48   50  45  89  63  52  47  12  10  9   4   48  36  74  10  14  15   18 45  89  36  14  55  30  54  58
+Juegas videojuegos;Elige el genero de videojuego que mas juegas.;Cual es tu edad;Cuantas horas y minutos del genero escogido juegas a la semana (Ejemplo: horas.minutos ).
+Si;Accion y aventuras;20;4.30
+Si;Accion y aventuras;20;5.00
+Si;Accion y aventuras;19;24.30
+Si;Accion y aventuras;20;1.20
+Si;Accion y aventuras;19;21.00
+Si;Accion y aventuras;19;2.00
+Si;Accion y aventuras;21;20.00
+Si;Accion y aventuras;19;2.30
+Si;Accion y aventuras;20;2.00
+Si;Accion y aventuras;21;23.00
+Si;Accion y aventuras;20;26.00
+Si;Accion y aventuras;30;4.30
+Si;Accion y aventuras;18;4.00
+Si;Accion y aventuras;18;2.30
+Si;Accion y aventuras;18;5.00
+Si;Accion y aventuras;20;6.00
+Si;Accion y aventuras;23;14.50
+Si;Accion y aventuras;40;2.35
+Si;Accion y aventuras;18;20.20
+Si;Accion y aventuras;15;14.26
+Si;Accion y aventuras;20;1.20
+Si;Accion y aventuras;21;8.20
+Si;Accion y aventuras;12;5.00
+Si;Accion y aventuras;19;6.50
+Si;Accion y aventuras;35;10.00
+Si;Accion y aventuras;20;12.20
+Si;Accion y aventuras;30;2.00
+Si;Accion y aventuras;15;2.30
+Si;Accion y aventuras;20;1.25
+Si;Accion y aventuras;19;4.30
+Si;Carreras y vuelos;20;20.50
+Si;Carreras y vuelos;19;14.00
+Si;Carreras y vuelos;19;35.00
+Si;Carreras y vuelos;18;8.30
+Si;Carreras y vuelos;18;1.30
+Si;Carreras y vuelos;23;2.45
+Si;Carreras y vuelos;15;2.00
+Si;Carreras y vuelos;26;1.45
+Si;Carreras y vuelos;18;2.00
+Si;Carreras y vuelos;30;1.00
+Si;Carreras y vuelos;20;3.20
+Si;Carreras y vuelos;26;1.45
+Si;Carreras y vuelos;23;23.10
+Si;Carreras y vuelos;17;3.40
+Si;Carreras y vuelos;30;4.25
+Si;Carreras y vuelos;15;2.30
+Si;Carreras y vuelos;20;2.40
+Si;Carreras y vuelos;20;1.20
+Si;Carreras y vuelos;19;1.45
+Si;Carreras y vuelos;19;2.50
+Si;Carreras y vuelos;18;10.20
+Si;Carreras y vuelos;30;1.30
+Si;Carreras y vuelos;20;4.50
+Si;Carreras y vuelos;20;4.00
+Si;Carreras y vuelos;20;4.00
+Si;Carreras y vuelos;17;9.30
+Si;Carreras y vuelos;24;1.35
+Si;Clasicos;20;16.00
+Si;Clasicos;16;1.00
+Si;Clasicos;14;5.00
+Si;Clasicos;16;4.00
+Si;Clasicos;45;2.50
+Si;Clasicos;45;3.20
+Si;Clasicos;21;2.30
+Si;Clasicos;17;1.30
+Si;Clasicos;19;2.00
+Si;Clasicos;15;2.40
+Si;Clasicos;50;3.00
+Si;Clasicos;40;1.00
+Si;Clasicos;50;12.00
+Si;Clasicos;20;2.00
+Si;Clasicos;15;2.25
+Si;Clasicos;41;5.00
+Si;Clasicos;18;20.10
+Si;Clasicos;20;2.50
+Si;Clasicos;15;8.00
+Si;Clasicos;40;2.00
+Si;Clasicos;38;2.10
+Si;Clasicos;19;2.30
+Si;Clasicos;21;1.10
+Si;Clasicos;30;3.00
+Si;Clasicos;20;6.00
+Si;Clasicos;29;4.00
+Si;Clasicos;29;3.10
+Si;Deportes;22;14.00
+Si;Deportes;20;05:20
+Si;Deportes;17;1.00
+Si;Deportes;20;3.00
+Si;Deportes;19;0.30
+Si;Deportes;30;1.30
+Si;Deportes;25;2.40
+Si;Deportes;19;12.30
+Si;Deportes;16;2.40
+Si;Deportes;22;1.40
+Si;Deportes;18;6.00
+Si;Deportes;19;1.00
+Si;Deportes;22;5.50
+Si;Deportes;16;3.30
+Si;Deportes;21;3.30
+Si;Deportes;20;2.00
+Si;Deportes;19;5.30
+Si;Deportes;20;10.20
+Si;Deportes;26;9.10
+Si;Deportes;16;12.20
+Si;Deportes;16;3.40
+Si;Deportes;30;5.10
+Si;Deportes;17;10.20
+Si;Deportes;20;4.30
+Si;Deportes;18;4.40
+Si;Deportes;20;3.00
+Si;Deportes;20;4.00
+Si;Deportes;24;3.20
+Si;Deportes;20;3.00
+Si;Deportes;15;2.30
+Si;Deportes;19;2.00
+Si;Deportes;21;3.30
+Si;Deportes;19;2.00
+Si;Deportes;12;2.30
+Si;Deportes;26;1.20
+Si;Deportes;20;5.00
+Si;Deportes;13;10.00
+Si;Deportes;20;5.00
+Si;Roles;19;20.30
+Si;Roles;15;3.00
+Si;Roles;20;3.30
+Si;Roles;19;12.10
+Si;Roles;21;30.00
+Si;Roles;25;1.00
+Si;Roles;19;2.40
+Si;Roles;31;4.10
+Si;Roles;21;3.00
+Si;Roles;21;10.30
+Si;Roles;21;8.00
+Si;Roles;23;3.50
+Si;Roles;15;1.30
+Si;Roles;17;6.30
+Si;Roles;19;4.30
+Si;Roles;15;10.00
+Si;Roles;20;5.30
+Si;Roles;29;3.40
+Si;Roles;20;20.30
+Si;Roles;30;5.30
+Si;Roles;24;5.35
+Si;Roles;39;4.10
+Si;Roles;24;2.50
+Si;Roles;14;2.30
+Si;Roles;19;12.30
+Si;Roles;30;5.20
+Si;Roles;19;6.50
+Si;Roles;21;10.00
+Si;Tiros;20;30.40
+Si;Tiros;20;19.30
+Si;Tiros;16;2.00
+Si;Tiros;22;1.30
+Si;Tiros;22;2.00
+Si;Tiros;18;40.00
+Si;Tiros;22;2.00
+Si;Tiros;19;35.00
+Si;Tiros;19;15.00
+Si;Tiros;18;24.00
+Si;Tiros;20;3.00
+Si;Tiros;19;4.00
+Si;Tiros;20;21.00
+Si;Tiros;19;02:30
+Si;Tiros;21;14.10
+Si;Tiros;20;13.00
+Si;Tiros;18;3.00
+Si;Tiros;22;8.00
+Si;Tiros;21;36.00
+Si;Tiros;20;10.00
+Si;Tiros;20;1.00
+Si;Tiros;21;02:00
+Si;Tiros;20;1.00
+Si;Tiros;25;2.50
+Si;Tiros;16;3.30
+Si;Tiros;21;2.30
+Si;Tiros;19;20.12
+Si;Tiros;20;10.30
+Si;Tiros;25;3.25
+Si;Tiros;17;3.30
+Si;Tiros;21;3.00
+Si;Tiros;25;3.00
+Si;Tiros;20;6.00
+Si;Tiros;21;2.00
+Si;Tiros;13;10.0
+Si;Tiros;25;1.25
+Si;Tiros;20;3.30
+Si;Tiros;25;1.55
+Si;Tiros;22;4.20
+Si;Tiros;18;5.30
+Si;Tiros;20;3.00
+Si;Tiros;22;1.20
+Si;Tiros;19;3.00
+Si;Tiros;20;3.00
+Si;Tiros;15;10.00
+Si;Tiros;20;2.30
+Si;Tiros;20;1.35
+Si;Tiros;20;3.00
+Si;Tiros;19;12.20
+Si;Tiros;25;12.00
+Si;Tiros;25;1.30
+Si;Tiros;23;3.10
+Si;Tiros;41;6.00
+Si;Tiros;13;10.00
+Si;Tiros;20;1.40
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
+No;;;
